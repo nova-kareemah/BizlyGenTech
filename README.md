@@ -475,7 +475,7 @@ const TechWebsiteGenerator = () => {
 <body>
     <header>
         <div class="container">
-            <div class="logo">${logo ? `<img src="${logo}" alt="Logo" style="height: 40px;">` : 'BizleyGenTech'}</div>
+            <div class="logo">${logo ? `<img src="${logo}" alt="Logo" style="height: 40px;">` : '.: BizleyGenTech :.'}</div>
         </div>
     </header>
     
